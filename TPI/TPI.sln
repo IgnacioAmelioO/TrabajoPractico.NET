@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36202.13 d17.14
+VisualStudioVersion = 17.14.36202.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "..\..\TPI.NET\WebAPI\WebAPI.csproj", "{7CAE9789-C8EA-B0CB-3544-FAD391C4DCAE}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.Services", "..\..\TPI.NET\Domain.Service\Domain.Services.csproj", "{438C18AB-785B-D043-BD9E-239D82CB6807}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "..\..\TPI.NET\Data\Data.csproj", "{84E1115E-6481-96A9-8A53-79875767A6EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForm", "WindowsForm\WindowsForm.csproj", "{DC4156CC-CE88-4795-9D72-0E61C3C91CB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{84E1115E-6481-96A9-8A53-79875767A6EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84E1115E-6481-96A9-8A53-79875767A6EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84E1115E-6481-96A9-8A53-79875767A6EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC4156CC-CE88-4795-9D72-0E61C3C91CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4156CC-CE88-4795-9D72-0E61C3C91CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4156CC-CE88-4795-9D72-0E61C3C91CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4156CC-CE88-4795-9D72-0E61C3C91CB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
